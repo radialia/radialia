@@ -41,6 +41,8 @@ _My soldiers⚔️_
 
 ## _Socials📖_
 _Stalk me here🤫_
+</br>
+</br>
 [![icons8-mail-64](https://user-images.githubusercontent.com/73730318/135382221-5bb771b0-c3e9-4208-a71c-ea04261dba92.png)](mailto:pseudopythonic@gmail.com)
 [![icons8-instagram-64](https://user-images.githubusercontent.com/73730318/135382477-f24b1df5-2b33-4014-b4fd-530612b36795.png)](https://www.instagram.com/pseudopythonic/)
 [![icons8-discord-64](https://user-images.githubusercontent.com/73730318/135382987-b9929fb5-ac9a-4e56-bdf1-6e1e516b4c2e.png)](https://discord.gg/Ug4fhB9P)
