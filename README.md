@@ -13,7 +13,10 @@ _Hi there, I am Hardik Jaiswal a.k.a [@radialia](https://github.com/radialia)! a
 - 😆 Funfact: My username is an anagram of my name!!
 <br/>
 
-### _Skills🛠️_
+## _Skills🛠️_
+_My fundamentals🍎_
+</br>
+</br>
 ![python (1)](https://user-images.githubusercontent.com/73730318/135377088-a6728cf2-ce3c-4a21-9fa1-b137fd44e8e2.png)   ![html-5](https://user-images.githubusercontent.com/73730318/135377280-064dcf19-a77f-4b67-aff3-720beb15e770.png)    ![css-3](https://user-images.githubusercontent.com/73730318/135377455-8bda4de8-97d5-4a20-b07a-16bfffb3443a.png)  ![js](https://user-images.githubusercontent.com/73730318/135377598-cf5be3cf-dc73-4a2b-847c-76d1053f07e9.png)
 ![react](https://user-images.githubusercontent.com/73730318/135377681-74e5d896-bfdf-4e1f-96a9-6d72e1b9c117.png)
 ![git-logo](https://user-images.githubusercontent.com/73730318/135377899-fb64ceb2-e03b-4d2a-a551-276dbd4015cd.png)
@@ -22,7 +25,10 @@ _Hi there, I am Hardik Jaiswal a.k.a [@radialia](https://github.com/radialia)! a
 
 <br/>
 
-### _Tools🧰_
+## _Tools🧰_
+_My soldiers⚔️_
+</br>
+</br>
 ![windows](https://user-images.githubusercontent.com/73730318/135380485-fac5715e-b0ae-4e3c-89c9-f3d7f744b145.png)
 ![linux](https://user-images.githubusercontent.com/73730318/135380598-d047b0de-908a-4ed1-88d6-da93c9c0a9ea.png)
 ![office](https://user-images.githubusercontent.com/73730318/135380654-b1fe8ebd-5fff-49c3-acd0-287d19d652a3.png)
@@ -33,7 +39,8 @@ _Hi there, I am Hardik Jaiswal a.k.a [@radialia](https://github.com/radialia)! a
 
 <br/>
 
-### _Socials📖_
+## _Socials📖_
+_Stalk me here🤫_
 [![icons8-mail-64](https://user-images.githubusercontent.com/73730318/135382221-5bb771b0-c3e9-4208-a71c-ea04261dba92.png)](mailto:pseudopythonic@gmail.com)
 [![icons8-instagram-64](https://user-images.githubusercontent.com/73730318/135382477-f24b1df5-2b33-4014-b4fd-530612b36795.png)](https://www.instagram.com/pseudopythonic/)
 [![icons8-discord-64](https://user-images.githubusercontent.com/73730318/135382987-b9929fb5-ac9a-4e56-bdf1-6e1e516b4c2e.png)](https://discord.gg/Ug4fhB9P)
