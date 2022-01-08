@@ -5,7 +5,7 @@ _Hi there, I am Hardik Jaiswal a.k.a [@radialia](https://github.com/radialia)! a
 <br/>
 
 ### _More About Me👦_
-- 🔭 I’m currently working on [!00DaysOfCode](https://www.github.com/radialia/100DaysOfCode)!
+- 🔭 I’m currently working on [100 Days Of Code with Python](https://www.github.com/radialia/100DaysOfCode)!
 - 👀 I’m interested in Artificial Intelligence and Robotics
 - 🌱 I’m currently planning to learn Machine Learning!
 - 💬 Ask me about Python and ReactJS
