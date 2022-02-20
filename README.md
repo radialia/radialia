@@ -14,10 +14,16 @@ _Hi there, I am Hardik Jaiswal a.k.a [@radialia](https://github.com/radialia)! a
 <br/>
 
 ## _Skills🛠️_
-_My fundamentals🍎_
+_Machine learning and Data Science_
 </br>
 </br>
-![python (1)](https://user-images.githubusercontent.com/73730318/135377088-a6728cf2-ce3c-4a21-9fa1-b137fd44e8e2.png)   ![html-5](https://user-images.githubusercontent.com/73730318/135377280-064dcf19-a77f-4b67-aff3-720beb15e770.png)    ![css-3](https://user-images.githubusercontent.com/73730318/135377455-8bda4de8-97d5-4a20-b07a-16bfffb3443a.png)  ![js](https://user-images.githubusercontent.com/73730318/135377598-cf5be3cf-dc73-4a2b-847c-76d1053f07e9.png)
+![python (1)](https://user-images.githubusercontent.com/73730318/135377088-a6728cf2-ce3c-4a21-9fa1-b137fd44e8e2.png)            ![image-removebg-preview](https://user-images.githubusercontent.com/96730754/154839616-076f8961-d4da-448b-a8a3-a54000b5888d.png)
+</br>
+</br>
+_Web development_
+</br>
+</br>
+![html-5](https://user-images.githubusercontent.com/73730318/135377280-064dcf19-a77f-4b67-aff3-720beb15e770.png)    ![css-3](https://user-images.githubusercontent.com/73730318/135377455-8bda4de8-97d5-4a20-b07a-16bfffb3443a.png)  ![js](https://user-images.githubusercontent.com/73730318/135377598-cf5be3cf-dc73-4a2b-847c-76d1053f07e9.png)
 ![react](https://user-images.githubusercontent.com/73730318/135377681-74e5d896-bfdf-4e1f-96a9-6d72e1b9c117.png)
 ![git-logo](https://user-images.githubusercontent.com/73730318/135377899-fb64ceb2-e03b-4d2a-a551-276dbd4015cd.png)
 ![java](https://user-images.githubusercontent.com/73730318/135377970-6d294037-f474-4d0b-a0f4-645aada7bb0c.png)
